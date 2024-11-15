@@ -9,7 +9,7 @@
 
 ###
 
-<h3 align="left">I'm a passionate Data Anaylst  with keen interest in uncovering insights from data and turning them into solutions.<br><br>I’m open to learn and collaborate on data analysis projects; volunteer, explore remote and international opportunities.</h3>
+<h3 align="left">I'm a passionate Certified Data Anaylst (CDA)  with keen interest in uncovering insights from data and turning them into solutions.<br><br>I’m open to learn and collaborate on data analysis projects; volunteer, explore remote and international opportunities.</h3>
 
 ###
 
