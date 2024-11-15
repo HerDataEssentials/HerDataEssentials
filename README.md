@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">Programming Language: Python, MySQL<br><br>Data Analysis & Visualization: Pandas, Power BI<br><br>Data Wrangling & Cleaning: Jupyter Notebook, Excel<br><br>Database Management: My SQL</p>
+<p align="left">Programming Language: Python, MySQL<br><br>Data Analysis & Visualization: Pandas, Microsoft Power BI<br><br>Data Wrangling & Cleaning: Jupyter Notebook, Microsoft Excel<br><br>Database Management: My SQL</p>
 
 ###
 
